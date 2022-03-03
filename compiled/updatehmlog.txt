@@ -1,0 +1,21 @@
+ [2022-03-02 19:10:07.523 Info] Start of Log
+ [2022-03-02 19:10:07.523 Info] updatehm version 0.0.15
+ [2022-03-02 19:10:07.523 Info] Given parameters follow:
+ [2022-03-02 19:10:07.523 Info] App name = rcb001.exe
+ [2022-03-02 19:10:07.523 Info] Updates folder = updates
+ [2022-03-02 19:10:07.523 Info] WhatsNew filename = whatsnew.txt
+ [2022-03-02 19:10:07.523 Info] Pretty Name = RET
+ [2022-03-02 19:10:07.523 Info] CopyTree = FALSE
+ [2022-03-02 19:10:07.523 Info] Please wait.  Updating RET....
+ [2022-03-02 19:10:07.525 Info] Application path = D:\Projetos\Lazarus\rcb001\compiled\rcb001.exe
+ [2022-03-02 19:10:07.525 Info] Updated application path = D:\Projetos\Lazarus\rcb001\compiled\updates\rcb001.exe
+ [2022-03-02 19:10:07.525 Info] WhatsNew path = D:\Projetos\Lazarus\rcb001\compiled\whatsnew.txt
+ [2022-03-02 19:10:07.525 Info] Updated whatsNew path = D:\Projetos\Lazarus\rcb001\compiled\updates\whatsnew.txt
+ [2022-03-02 19:10:07.526 Info] Writing.. whatsnew.txt
+ [2022-03-02 19:10:07.526 Info] Waiting 2 seconds...
+ [2022-03-02 19:10:09.532 Info] Successfully copied lauimport.ini to C:\Users\Trabalho\AppData\Local\updatehmwin64\ 
+ [2022-03-02 19:10:09.532 Info] Wrote new entry in section RCB001.  Location=D:\Projetos\Lazarus\rcb001\compiled\
+ [2022-03-02 19:10:09.549 Info] Copying over executeable, then sleeping...
+ [2022-03-02 19:10:09.549 Info] Waiting 1 second...
+ [2022-03-02 19:10:10.549 Info] Restarting RET...
+ [2022-03-02 19:10:10.669 Info] End of Log

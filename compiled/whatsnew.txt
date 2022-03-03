@@ -1,0 +1,45 @@
+* Versão 0.4.0.2
+  Pequenos ajustes
+
+* Versão 0.4.0.0
+  Computador Novo :)
+
+* Versão 0.3.1.9
+  Criado campo ID(autoinc) no BD
+  Criado campo IDGRP
+  Criado tabelas para grupos/arquivos
+  BD funcional! (eu acho)
+
+* Versão 0.3.1.4
+  Criado relatório para RCB001
+  Criado relatório para CBR643
+
+* Versão 0.3.1.3
+  Criada tabela RCB001 no BD
+  Começando a entender o GitHub
+
+* Versão 0.3.0.5
+  Novo nome: RET - Arquivo de Retorno
+  Implementado um Ícone
+  ID. do registro do RCB001
+
+* Versão 0.3.0.3
+  apaguei tudo sem querer
+  consegui recuperar
+
+* Versão 0.2.0.9
+  Processo de criação da base de dados
+  Integração de um simples relatório
+  Integração de arquivo de config.
+  Ainda testando a auto-atualização
+
+* nova versao 0.1.0.16
+  IDO pra o GH
+
+* nova versao 0.1.0.16
+  mudando do SF para o GH
+
+* nova versao 0.1.0.12
+  nao houve versão 0.1.0.11
+
+* nova versao 0.1.0.10

@@ -1,0 +1,20 @@
+
+compiled/rcb001.exe
+*.o
+*.ppu
+*.compiled
+*.obj
+*.res
+*.lfm
+updates/lauimport.ini
+updates/whatsnew.txt
+*.ret
+lib/*.*
+compiled/newrcb001.ini
+compiled/arq CBR643.png
+compiled/arq RCB001.png
+compiled/rel RCB001.png
+compiled/bdados.db
+compiled/cfg.ini
+backup/*.*
+compiled/updates/cbr643_lst.lrf
